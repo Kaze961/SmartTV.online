@@ -1,1 +1,0 @@
-start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" "file://C:/SmartTV.online/index.html" --start-fullscreen
