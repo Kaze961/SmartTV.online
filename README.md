@@ -2,5 +2,5 @@
 Smart TV Web Interface - Build your own SmartTV
 
 Requirements: Chrome installed, Steam installed for Controller Support
-![image](https://user-images.githubusercontent.com/83350146/158697046-ad1ca97a-e2df-424d-8e3a-88e4155348bb.png)
+![image](https://user-images.githubusercontent.com/83350146/158900740-15bcd213-c564-440e-941c-cffa50f10e3b.png)
 Fonts for personal use
