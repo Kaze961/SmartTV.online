@@ -10,7 +10,7 @@ Requirements: Chrome installed
 
 1. Go to Releases and download the Startup-Launcher
 3. Press Win + R and type in shell:startup
-4. copy the START.bat to the Folder.
+4. copy the Web_Start.bat to the Folder.
 5. Restart your PC :)
 
 Disable the Windows Login-Screen for the best experience
@@ -33,4 +33,4 @@ Local-Install:
 
 ### Important Informations:
 - it will start automatically every time you turn on your PC
-  (to remove delete the START.bat in Startup Folder)
+  (to remove delete the Start File in Startup Folder)
