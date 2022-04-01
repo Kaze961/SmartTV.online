@@ -108,7 +108,7 @@ align-content: center;
 .Twitch{
   height: 100%;
   width: 100%;
-  font-family: Twitch;
+  font-family: Roboto; /* Replace Roboto with Twitch to use Twitch font (Disabled because of Github Pages) */
   font-size: 65px;
   background-color: rgba(100 65 165);
   display: grid;
@@ -118,7 +118,7 @@ align-content: center;
 .Twitch:hover{
   height: 100%;
   width: 100%;
-  font-family: Twitch;
+  font-family: Roboto; /* Replace Roboto with Twitch to use Twitch font (Disabled because of Github Pages) */
   font-size: 65px;
   background-color: rgba(100 65 165);
   border-style: solid;
