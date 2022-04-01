@@ -13,10 +13,10 @@ Requirements: Chrome installed
 4. copy the Web_Start.bat to the Folder.
 5. Restart your PC :)
 
-!Windows SmartScreen will appear at the first time running. Click on more informations then click run anyway.!
+**!Windows SmartScreen will appear at the first time running. Click on more informations then click run anyway.!**
 Disable the Windows Login-Screen for the best experience
 
-Controller-Support Setup via Steam:
+**Controller-Support Setup via Steam:**
 1. Download Steam and Log in 
 2. Check if Steam is in the Autostart (Taskmanager)
 3. (Disable the News Popup)
@@ -24,7 +24,7 @@ Controller-Support Setup via Steam:
 5. Goto Steam Settings, Controller, Desktopconfiguration
 6. Set the left Shoulder Button to ALT + Left_Arrow (page back in chrome)
 
-Local-Install:
+**Local-Install:**
 1. Download the SmartTV_Local Folder
 2. Extract and run the Installer.exe
 3. restart your PC :)
