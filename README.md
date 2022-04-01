@@ -1,9 +1,13 @@
 # SmartTV.online
 Smart TV Web Interface - Build your own SmartTV
 
+![image](https://user-images.githubusercontent.com/83350146/158901149-a90d8c0a-4877-4123-b2ae-e7ac59d1e469.png)
+Fonts for personal use
+
+Install Guide:
+
 Requirements: Chrome installed
 
-How to use:
 1. Go to Releases and download the Startup-Launcher
 2. Extract the Zip-File
 3. Press Win + R and type in shell:startup
@@ -18,7 +22,3 @@ Controller-Support Setup via Steam:
 4. Connect your Controller
 5. Goto Steam Settings, Controller, Desktopconfiguration
 6. Set the left Shoulder Button to ALT + Left_Arrow (page back in chrome)
-
-
-![image](https://user-images.githubusercontent.com/83350146/158901149-a90d8c0a-4877-4123-b2ae-e7ac59d1e469.png)
-Fonts for personal use
