@@ -9,7 +9,6 @@ Fonts for personal use
 Requirements: Chrome installed
 
 1. Go to Releases and download the Startup-Launcher
-2. Extract the Zip-File
 3. Press Win + R and type in shell:startup
 4. copy the START.bat to the Folder.
 5. Restart your PC :)
