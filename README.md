@@ -14,6 +14,7 @@ Requirements: Chrome installed
 5. Restart your PC :)
 
 **!Windows SmartScreen will appear at the first time running. Click on more informations then click run anyway.!**
+
 Disable the Windows Login-Screen for the best experience
 
 **Controller-Support Setup via Steam:**
