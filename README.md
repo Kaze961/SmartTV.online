@@ -13,6 +13,7 @@ Requirements: Chrome installed
 4. copy the Web_Start.bat to the Folder.
 5. Restart your PC :)
 
+!Windows SmartScreen will appear at the first time running. Click on more informations then click run anyway.!
 Disable the Windows Login-Screen for the best experience
 
 Controller-Support Setup via Steam:
