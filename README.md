@@ -36,3 +36,4 @@ Disable the Windows Login-Screen for the best experience
 ### Important Informations:
 - it will start automatically every time you turn on your PC
   (to remove delete the Start File in Startup Folder)
+- not all Resolutions are tested
