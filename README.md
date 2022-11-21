@@ -1,4 +1,4 @@
-Raspberry Pi Update soon !!! 
+Installer Update soon! 
 # SmartTV.online
 Smart TV Web Interface - Build your own SmartTV
 
