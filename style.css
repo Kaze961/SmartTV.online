@@ -191,7 +191,7 @@ align-content: center;
 .Spotify{
   height: 100%;
   width: 100%;
-  font-family: Spotify;
+  font-family: Youtube;
   font-size: 60px;
   background-color: rgba(30 215 96);
   color: white;
@@ -202,7 +202,7 @@ align-content: center;
 .Spotify:hover{
   height: 100%;
   width: 100%;
-  font-family: Spotify;
+  font-family: Youtube;
   font-size: 60px;
   background-color: rgba(30 215 96);
   border-style: solid;
